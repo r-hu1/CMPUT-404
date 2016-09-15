@@ -1,0 +1,9 @@
+1) clientSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+
+2) client socket send request to server where server socket listens from client
+
+3) clientSocket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR,1)
+
+4) The client's IP address and the port we are listening to
+
+5) 
