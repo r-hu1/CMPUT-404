@@ -1,0 +1,38 @@
+1) "It worked!"
+"Congratulation on your first Django powered page."
+
+2)for /: 
+
+Page not found (404)
+Request Method:	GET
+Request URL:	http://127.0.0.1:8000/
+Using the URLconf defined in mysite.urls, Django tried these URL patterns, in this order:
+^admin/
+^polls/
+The current URL, , didn't match any of these.
+You're seeing this error because you have DEBUG = True in your Django settings file. Change that to False, and Django will display a standard 404 page.
+
+for /polls:
+
+Hello world! This is the pollls index!
+
+3)Chenges python to sql to create tables
+
+4)I see Django administration:
+Site administration
+Authentication and Authorization
+Groups - Add, Change
+Users	Add,Change
+Polls
+Choices	Add,Change
+Questions	Add,Change
+Recent Actions
+My Actions
+None available
+
+
+5)You're looking at question 38.You're looking at the results of question 38.You're voting on question 38.
+you get Page not found (404)
+by changing "[0-9]" to incude letters "[0-9a-z]"
+
+6) because url change and you can change iot later
